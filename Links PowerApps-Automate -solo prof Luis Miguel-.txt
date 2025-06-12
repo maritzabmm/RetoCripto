@@ -1,0 +1,19 @@
+Link Power Apps
+https://make.powerapps.com/e/default-c65a3ea6-0f7c-400b-8934-5a6dc1705645/canvas/?action=edit&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2Ff758e421-e5c4-4cd5-8171-0f0f21962ca3
+
+Link Flujo envío de correo
+https://make.powerautomate.com/environments/Default-c65a3ea6-0f7c-400b-8934-5a6dc1705645/flows/shared/0a7e6665-15fe-40d9-856a-7fc9a6d48a7e?v3=false
+
+Link Flujo verificación documento
+https://make.powerautomate.com/environments/Default-c65a3ea6-0f7c-400b-8934-5a6dc1705645/flows/shared/ef09201c-82ad-4e61-9558-9fc5dcf7df15?v3=false
+
+Link Flujo firma de documento
+https://make.powerautomate.com/environments/Default-c65a3ea6-0f7c-400b-8934-5a6dc1705645/flows/shared/f6f4c6ba-6b1c-42ce-923e-1c617a65bd71?v3=false
+
+Link Flujo guardado de emails para registrar firmantes
+https://make.powerautomate.com/environments/Default-c65a3ea6-0f7c-400b-8934-5a6dc1705645/flows/shared/442f4b14-1854-4fe9-9475-64cb85d38a14?v3=false
+
+Link Flujo inicio de aplicación
+https://make.powerautomate.com/environments/Default-c65a3ea6-0f7c-400b-8934-5a6dc1705645/flows/shared/19bcf4e2-dcb3-492a-9bd8-4ff29cba80c5?v3=false
+
+
